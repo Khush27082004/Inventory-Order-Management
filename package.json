@@ -1,0 +1,23 @@
+{
+  "name": "corestock-inventory-order-system",
+  "version": "1.0.0",
+  "description": "Full-stack MERN Inventory and Order Management System",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "start:backend": "npm --prefix backend start",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "seed": "npm --prefix backend run seed"
+  },
+  "keywords": [
+    "mern",
+    "inventory-management",
+    "order-management",
+    "mongodb",
+    "express",
+    "react",
+    "node"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
